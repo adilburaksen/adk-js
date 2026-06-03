@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/google/adk-js/compare/adk-v1.2.0...adk-v1.2.1) (2026-06-03)
+
+
+### Bug Fixes
+
+* Filter temporary state keys on session creation in TS ADK ([#406](https://github.com/google/adk-js/issues/406)) ([04968b7](https://github.com/google/adk-js/commit/04968b734e44600a847239f103864e4c404d97c3))
+
 ## [1.2.0](https://github.com/google/adk-js/compare/adk-v1.1.0...adk-v1.2.0) (2026-06-02)
 
 
